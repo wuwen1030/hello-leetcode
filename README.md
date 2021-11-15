@@ -9,6 +9,8 @@ Leet Code Playground. Have fun！
 
 [21. Merge Two Sorted Lists](hello-leetcode.playground/Pages/Merge2SortedList.xcplaygroundpage/Contents.swift)
 
+[22. Generate Parentheses](hello-leetcode.playground/Pages/GenerateParentheses.xcplaygroundpage/Contents.swift)
+
 [23. Merge K sorted list](hello-leetcode.playground/Pages/MergeKSortedList.xcplaygroundpage/Contents.swift)
 
 [102. Binary Tree Level Order Traversal](hello-leetcode.playground/Pages/BinaryTreeLevelOrderTraversal.xcplaygroundpage/Contents.swift)

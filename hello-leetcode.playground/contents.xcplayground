@@ -7,5 +7,7 @@
         <page name='BinaryTreeLevelOrderTraversal'/>
         <page name='MergeKSortedList'/>
         <page name='Merge2SortedList'/>
+        <page name='TwoSum'/>
+        <page name='GenerateParentheses'/>
     </pages>
 </playground>
