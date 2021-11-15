@@ -1,2 +1,2 @@
 # hello-leetcode
-My solution of leet-code
+Leet Code Playground. Have fun！
