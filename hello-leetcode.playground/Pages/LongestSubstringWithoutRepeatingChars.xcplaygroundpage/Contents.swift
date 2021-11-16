@@ -23,6 +23,3 @@ class Solution {
         return maxLength
     }
 }
-
-let solution = Solution()
-solution.lengthOfLongestSubstring("abcabcbb")
