@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
+        <page name='Outline'/>
+        <page name='TwoSum'/>
+        <page name='LongestSubstringWithoutRepeatingChars'/>
         <page name='ContainerWithMostWater'/>
         <page name='RemoveNthNodeFromEndOfList'/>
-        <page name='ReverseList'/>
-        <page name='BinaryTreeLevelOrderTraversal'/>
-        <page name='MergeKSortedList'/>
         <page name='Merge2SortedList'/>
-        <page name='TwoSum'/>
         <page name='GenerateParentheses'/>
-        <page name='LongestSubstringWithoutRepeatingChars'/>
+        <page name='MergeKSortedList'/>
         <page name='TrappingRainWater'/>
+        <page name='BinaryTreeLevelOrderTraversal'/>
+        <page name='ReverseList'/>
     </pages>
 </playground>
