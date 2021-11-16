@@ -15,6 +15,8 @@ Leet Code Playground. Have fun！
 
 [23. Merge K sorted list](hello-leetcode.playground/Pages/MergeKSortedList.xcplaygroundpage/Contents.swift)
 
+[42. Trapping Rain Water](hello-leetcode.playground/Pages/TrappingRainWater.xcplaygroundpage/Contents.swift)
+
 [102. Binary Tree Level Order Traversal](hello-leetcode.playground/Pages/BinaryTreeLevelOrderTraversal.xcplaygroundpage/Contents.swift)
 
 [206. Reverse Linked List](hello-leetcode.playground/Pages/ReverseList.xcplaygroundpage/Contents.swift)
