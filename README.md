@@ -3,6 +3,8 @@ Leet Code Playground. Have fun！
 
 [1. Two Sum](hello-leetcode.playground/Pages/TwoSum.xcplaygroundpage/Contents.swift)
 
+[3. Longest Substring Without Repeating Characters](hello-leetcode.playground/Pages/LongestSubstringWithoutRepeatingChars.xcplaygroundpage/Contents.swift)
+
 [11. Container With Most Water](hello-leetcode.playground/Pages/ContainerWithMostWater.xcplaygroundpage/Contents.swift)
 
 [19. Remove Nth Node From End of List](hello-leetcode.playground/Pages/RemoveNthNodeFromEndOfList.xcplaygroundpage/Contents.swift)

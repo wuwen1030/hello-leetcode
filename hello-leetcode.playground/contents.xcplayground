@@ -9,5 +9,6 @@
         <page name='Merge2SortedList'/>
         <page name='TwoSum'/>
         <page name='GenerateParentheses'/>
+        <page name='LongestSubstringWithoutRepeatingChars'/>
     </pages>
 </playground>
