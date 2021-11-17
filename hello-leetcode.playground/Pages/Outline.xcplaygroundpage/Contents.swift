@@ -22,6 +22,8 @@
 
  [102. Binary Tree Level Order Traversal](BinaryTreeLevelOrderTraversal)
  
+ [114. Flatten Binary Tree to Linked List](FlattenBinaryTreetoLinkedList)
+ 
  [206. Reverse Linked List](ReverseList)
  */
 

@@ -23,5 +23,7 @@ Leet Code Playground. Have fun！
 
 [102. Binary Tree Level Order Traversal](hello-leetcode.playground/Pages/BinaryTreeLevelOrderTraversal.xcplaygroundpage/Contents.swift)
 
+[114. Flatten Binary Tree to Linked List](hello-leetcode.playground/Pages/FlattenBinaryTreetoLinkedList.xcplaygroundpage/Contents.swift)
+
 [206. Reverse Linked List](hello-leetcode.playground/Pages/ReverseList.xcplaygroundpage/Contents.swift)
 
