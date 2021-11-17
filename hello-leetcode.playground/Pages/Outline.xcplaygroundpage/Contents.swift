@@ -16,6 +16,10 @@
  
  [42. Trapping Rain Water](TrappingRainWater)
  
+ [62. Unique Paths](UniquePaths)
+ 
+ [63. Unique Paths II](UniquePaths2)
+
  [102. Binary Tree Level Order Traversal](BinaryTreeLevelOrderTraversal)
  
  [206. Reverse Linked List](ReverseList)

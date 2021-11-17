@@ -17,6 +17,10 @@ Leet Code Playground. Have fun！
 
 [42. Trapping Rain Water](hello-leetcode.playground/Pages/TrappingRainWater.xcplaygroundpage/Contents.swift)
 
+[62. Unique Paths](hello-leetcode.playground/Pages/UniquePaths.xcplaygroundpage/Contents.swift)
+ 
+[63. Unique Paths II](hello-leetcode.playground/Pages/UniquePaths2.xcplaygroundpage/Contents.swift)
+
 [102. Binary Tree Level Order Traversal](hello-leetcode.playground/Pages/BinaryTreeLevelOrderTraversal.xcplaygroundpage/Contents.swift)
 
 [206. Reverse Linked List](hello-leetcode.playground/Pages/ReverseList.xcplaygroundpage/Contents.swift)
