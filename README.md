@@ -17,6 +17,8 @@ Leet Code Playground. Have fun！
 
 [42. Trapping Rain Water](hello-leetcode.playground/Pages/TrappingRainWater.xcplaygroundpage/Contents.swift)
 
+[50. Pow(x, n)](hello-leetcode.playground/Pages/Pow.xcplaygroundpage/Contents.swift)
+
 [62. Unique Paths](hello-leetcode.playground/Pages/UniquePaths.xcplaygroundpage/Contents.swift)
  
 [63. Unique Paths II](hello-leetcode.playground/Pages/UniquePaths2.xcplaygroundpage/Contents.swift)

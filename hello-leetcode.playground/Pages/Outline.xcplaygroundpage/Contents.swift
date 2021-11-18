@@ -16,6 +16,8 @@
  
  [42. Trapping Rain Water](TrappingRainWater)
  
+ [50. Pow(x, n)](Pow)
+ 
  [62. Unique Paths](UniquePaths)
  
  [63. Unique Paths II](UniquePaths2)

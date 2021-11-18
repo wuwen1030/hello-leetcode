@@ -15,5 +15,6 @@
         <page name='BinaryTreeLevelOrderTraversal'/>
         <page name='FlattenBinaryTreetoLinkedList'/>
         <page name='ReverseList'/>
+        <page name='Pow'/>
     </pages>
 </playground>
