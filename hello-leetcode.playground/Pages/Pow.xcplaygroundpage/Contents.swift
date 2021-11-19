@@ -3,9 +3,14 @@
 import Foundation
 
 /*:
- n = [0|1]*2^0 + [0|1]*2^1 + ... + [0|1]*2^k
+ Assume that the binary representation of n is ak,ak-1,...,a0, ai = 0 or 1
  
- x^n = (x^(2^0))^[0|1] * (x^(2^1))^[0|1] * ... * (x^(2^1))^[0|1]
+ then:
+ 
+ n = a0*2^0 + a1*2^1 + ... + ak*2^k-1
+ 
+ x^n = (x^(2^0))^a0 * (x^(2^1))^a1 * ... * (x^(2^k-1))^ak
+ 
  */
 class Solution {
     func myPow(_ x: Double, _ n: Int) -> Double {
@@ -22,9 +27,5 @@ class Solution {
         return n > 0 ? ans : 1 / ans;
     }
 }
-
-let solution = Solution()
-
-solution.myPow(2.0, 10)
 
 //: [Next](@next)
