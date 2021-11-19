@@ -16,5 +16,6 @@
         <page name='FlattenBinaryTreetoLinkedList'/>
         <page name='ReverseList'/>
         <page name='Pow'/>
+        <page name='LongestIncreasingSubsequence'/>
     </pages>
 </playground>
