@@ -29,3 +29,5 @@ Leet Code Playground. Have fun！
 
 [206. Reverse Linked List](hello-leetcode.playground/Pages/ReverseList.xcplaygroundpage/Contents.swift)
 
+[300. Longest Increasing Subsequence](hello-leetcode.playground/Pages/LongestIncreasingSubsequence.xcplaygroundpage/Contents.swift)
+
