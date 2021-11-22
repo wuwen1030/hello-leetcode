@@ -20,5 +20,6 @@
         <page name='ReverseList'/>
         <page name='Pow'/>
         <page name='LongestIncreasingSubsequence'/>
+        <page name='NumberofIslands'/>
     </pages>
 </playground>
