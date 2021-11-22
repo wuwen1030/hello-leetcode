@@ -23,6 +23,8 @@ Leet Code Playground. Have fun！
  
 [63. Unique Paths II](hello-leetcode.playground/Pages/UniquePaths2.xcplaygroundpage/Contents.swift)
 
+[79. Word Search](hello-leetcode.playground/Pages/WordSearch.xcplaygroundpage/Contents.swift)
+
 [102. Binary Tree Level Order Traversal](hello-leetcode.playground/Pages/BinaryTreeLevelOrderTraversal.xcplaygroundpage/Contents.swift)
 
 [114. Flatten Binary Tree to Linked List](hello-leetcode.playground/Pages/FlattenBinaryTreetoLinkedList.xcplaygroundpage/Contents.swift)

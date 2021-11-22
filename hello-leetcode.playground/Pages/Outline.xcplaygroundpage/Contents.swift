@@ -21,6 +21,8 @@
  [62. Unique Paths](UniquePaths)
  
  [63. Unique Paths II](UniquePaths2)
+ 
+ [79. Word Search](WordSearch)
 
  [102. Binary Tree Level Order Traversal](BinaryTreeLevelOrderTraversal)
  
