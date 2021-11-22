@@ -13,6 +13,7 @@
         <page name='UniquePaths'/>
         <page name='UniquePaths2'/>
         <page name='WordSearch'/>
+        <page name='RemoveDuplicatesfromSortedArray'/>
         <page name='BinaryTreeLevelOrderTraversal'/>
         <page name='FlattenBinaryTreetoLinkedList'/>
         <page name='ReverseList'/>

@@ -23,6 +23,8 @@
  [63. Unique Paths II](UniquePaths2)
  
  [79. Word Search](WordSearch)
+ 
+ [80. Remove Duplicates from Sorted Array](RemoveDuplicatesfromSortedArray)
 
  [102. Binary Tree Level Order Traversal](BinaryTreeLevelOrderTraversal)
  
