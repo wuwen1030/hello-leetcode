@@ -14,6 +14,8 @@
  
  [23. Merge K sorted list](MergeKSortedList)
  
+ [26. Remove Duplicates from Sorted Array](RemoveDuplicatesfromSortedArray)
+ 
  [42. Trapping Rain Water](TrappingRainWater)
  
  [50. Pow(x, n)](Pow)
@@ -24,7 +26,7 @@
  
  [79. Word Search](WordSearch)
  
- [80. Remove Duplicates from Sorted Array](RemoveDuplicatesfromSortedArray)
+ [80. Remove Duplicates from Sorted Array II](RemoveDuplicatesfromSortedArray2)
 
  [102. Binary Tree Level Order Traversal](BinaryTreeLevelOrderTraversal)
  

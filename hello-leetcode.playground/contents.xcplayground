@@ -9,11 +9,12 @@
         <page name='Merge2SortedList'/>
         <page name='GenerateParentheses'/>
         <page name='MergeKSortedList'/>
+        <page name='RemoveDuplicatesfromSortedArray'/>
         <page name='TrappingRainWater'/>
         <page name='UniquePaths'/>
         <page name='UniquePaths2'/>
         <page name='WordSearch'/>
-        <page name='RemoveDuplicatesfromSortedArray'/>
+        <page name='RemoveDuplicatesfromSortedArray2'/>
         <page name='BinaryTreeLevelOrderTraversal'/>
         <page name='FlattenBinaryTreetoLinkedList'/>
         <page name='ReverseList'/>

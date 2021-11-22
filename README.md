@@ -15,6 +15,8 @@ Leet Code Playground. Have fun！
 
 [23. Merge K sorted list](hello-leetcode.playground/Pages/MergeKSortedList.xcplaygroundpage/Contents.swift)
 
+[26. Remove Duplicates from Sorted Array](hello-leetcode.playground/Pages/RemoveDuplicatesfromSortedArray.xcplaygroundpage/Contents.swift)
+
 [42. Trapping Rain Water](hello-leetcode.playground/Pages/TrappingRainWater.xcplaygroundpage/Contents.swift)
 
 [50. Pow(x, n)](hello-leetcode.playground/Pages/Pow.xcplaygroundpage/Contents.swift)
@@ -25,7 +27,7 @@ Leet Code Playground. Have fun！
 
 [79. Word Search](hello-leetcode.playground/Pages/WordSearch.xcplaygroundpage/Contents.swift)
 
-[80. Remove Duplicates from Sorted Array](hello-leetcode.playground/Pages/RemoveDuplicatesfromSortedArray.xcplaygroundpage/Contents.swift)
+[80. Remove Duplicates from Sorted Array II](hello-leetcode.playground/Pages/RemoveDuplicatesfromSortedArray2.xcplaygroundpage/Contents.swift)
 
 [102. Binary Tree Level Order Traversal](hello-leetcode.playground/Pages/BinaryTreeLevelOrderTraversal.xcplaygroundpage/Contents.swift)
 
