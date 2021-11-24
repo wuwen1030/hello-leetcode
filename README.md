@@ -25,6 +25,8 @@ Leet Code Playground. Have fun！
  
 [63. Unique Paths II](hello-leetcode.playground/Pages/UniquePaths2.xcplaygroundpage/Contents.swift)
 
+[69. Sqrt(x)](hello-leetcode.playground/Pages/Sqrt.xcplaygroundpage/Contents.swift)
+
 [79. Word Search](hello-leetcode.playground/Pages/WordSearch.xcplaygroundpage/Contents.swift)
 
 [80. Remove Duplicates from Sorted Array II](hello-leetcode.playground/Pages/RemoveDuplicatesfromSortedArray2.xcplaygroundpage/Contents.swift)

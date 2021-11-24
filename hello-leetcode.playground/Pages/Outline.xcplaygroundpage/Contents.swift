@@ -24,6 +24,8 @@
  
  [63. Unique Paths II](UniquePaths2)
  
+ [69. Sqrt(x)](Sqrt)
+ 
  [79. Word Search](WordSearch)
  
  [80. Remove Duplicates from Sorted Array II](RemoveDuplicatesfromSortedArray2)

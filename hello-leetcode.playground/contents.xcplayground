@@ -13,6 +13,7 @@
         <page name='TrappingRainWater'/>
         <page name='UniquePaths'/>
         <page name='UniquePaths2'/>
+        <page name='Sqrt'/>
         <page name='WordSearch'/>
         <page name='RemoveDuplicatesfromSortedArray2'/>
         <page name='BinaryTreeLevelOrderTraversal'/>
@@ -21,5 +22,6 @@
         <page name='Pow'/>
         <page name='LongestIncreasingSubsequence'/>
         <page name='NumberofIslands'/>
+        <page name='BasicCalculator'/>
     </pages>
 </playground>
