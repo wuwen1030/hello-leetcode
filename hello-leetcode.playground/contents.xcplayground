@@ -23,5 +23,6 @@
         <page name='LongestIncreasingSubsequence'/>
         <page name='NumberofIslands'/>
         <page name='BasicCalculator'/>
+        <page name='CoinChange'/>
     </pages>
 </playground>

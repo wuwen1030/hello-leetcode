@@ -41,3 +41,4 @@ Leet Code Playground. Have fun！
 
 [300. Longest Increasing Subsequence](hello-leetcode.playground/Pages/LongestIncreasingSubsequence.xcplaygroundpage/Contents.swift)
 
+[322. Coin Change](hello-leetcode.playground/Pages/CoinChange.xcplaygroundpage/Contents.swift)
