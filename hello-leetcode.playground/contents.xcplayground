@@ -24,5 +24,6 @@
         <page name='NumberofIslands'/>
         <page name='BasicCalculator'/>
         <page name='CoinChange'/>
+        <page name='CoinChange2'/>
     </pages>
 </playground>

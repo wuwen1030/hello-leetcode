@@ -41,6 +41,9 @@
  [300. Longest Increasing Subsequence](LongestIncreasingSubsequence)
  
  [322. Coin Change](CoinChange)
+ 
+ [322. Coin Change 2](CoinChange2)
+
  */
 
 //: [Next](@next)
