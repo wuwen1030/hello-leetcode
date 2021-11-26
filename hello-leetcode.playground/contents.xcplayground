@@ -25,5 +25,6 @@
         <page name='BasicCalculator'/>
         <page name='CoinChange'/>
         <page name='CoinChange2'/>
+        <page name='SearchBST'/>
     </pages>
 </playground>

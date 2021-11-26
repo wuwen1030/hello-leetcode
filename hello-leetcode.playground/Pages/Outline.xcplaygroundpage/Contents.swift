@@ -44,6 +44,7 @@
  
  [322. Coin Change 2](CoinChange2)
 
+ [700. Search in a Binary Search Tree](SearchBST)
  */
 
 //: [Next](@next)
