@@ -29,6 +29,8 @@
  [79. Word Search](WordSearch)
  
  [80. Remove Duplicates from Sorted Array II](RemoveDuplicatesfromSortedArray2)
+ 
+ [94. Binary Tree Inorder Traversal](BinaryTreeInorderTraversal)
 
  [102. Binary Tree Level Order Traversal](BinaryTreeLevelOrderTraversal)
  

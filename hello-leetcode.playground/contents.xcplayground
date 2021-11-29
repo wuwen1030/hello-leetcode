@@ -16,6 +16,7 @@
         <page name='Sqrt'/>
         <page name='WordSearch'/>
         <page name='RemoveDuplicatesfromSortedArray2'/>
+        <page name='BinaryTreeInorderTraversal'/>
         <page name='BinaryTreeLevelOrderTraversal'/>
         <page name='FlattenBinaryTreetoLinkedList'/>
         <page name='ReverseList'/>

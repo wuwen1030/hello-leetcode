@@ -31,6 +31,8 @@ Leet Code Playground. Have fun！
 
 [80. Remove Duplicates from Sorted Array II](hello-leetcode.playground/Pages/RemoveDuplicatesfromSortedArray2.xcplaygroundpage/Contents.swift)
 
+[94. Binary Tree Inorder Traversal](hello-leetcode.playground/Pages/BinaryTreeInorderTraversal.xcplaygroundpage/Contents.swift)
+
 [102. Binary Tree Level Order Traversal](hello-leetcode.playground/Pages/BinaryTreeLevelOrderTraversal.xcplaygroundpage/Contents.swift)
 
 [114. Flatten Binary Tree to Linked List](hello-leetcode.playground/Pages/FlattenBinaryTreetoLinkedList.xcplaygroundpage/Contents.swift)

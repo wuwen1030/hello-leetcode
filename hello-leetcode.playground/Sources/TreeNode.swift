@@ -1,6 +1,6 @@
 import Foundation
 
-public class TreeNode {
+public class TreeNode: CustomStringConvertible {
     public var val: Int = 0
     public var left: TreeNode?
     public var right: TreeNode?
@@ -13,6 +13,10 @@ public class TreeNode {
         self.val = val
         self.left = left
         self.right = right
+    }
+    
+    public var description: String {
+        return "val: \(val)"
     }
 }
 
@@ -32,11 +36,13 @@ public func binaryTree(_ nums: [Int?]) -> TreeNode? {
             let left = nums[k] != nil ? TreeNode(nums[k]!) : nil
             queue.append(left)
             k = k + 1
-            let right = nums[k] != nil ? TreeNode(nums[k]!) : nil
-            queue.append(right)
-            k = k + 1
             node.left = left
-            node.right = right
+            if k < nums.count {
+                let right = nums[k] != nil ? TreeNode(nums[k]!) : nil
+                queue.append(right)
+                k = k + 1
+                node.right = right
+            }
         }
         queue.removeFirst()
         
