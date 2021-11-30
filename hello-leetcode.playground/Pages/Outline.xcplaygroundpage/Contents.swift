@@ -44,8 +44,10 @@
  
  [322. Coin Change](CoinChange)
  
- [322. Coin Change 2](CoinChange2)
-
+ [400. Nth Digit](NthDigit)
+ 
+ [518. Coin Change 2](CoinChange2)
+ 
  [700. Search in a Binary Search Tree](SearchBST)
  */
 
