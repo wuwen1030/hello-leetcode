@@ -28,5 +28,6 @@
         <page name='CoinChange2'/>
         <page name='NthDigit'/>
         <page name='SearchBST'/>
+        <page name='IslandPerimeter'/>
     </pages>
 </playground>
