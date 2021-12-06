@@ -18,6 +18,7 @@
         <page name='RemoveDuplicatesfromSortedArray2'/>
         <page name='BinaryTreeInorderTraversal'/>
         <page name='BinaryTreeLevelOrderTraversal'/>
+        <page name='PathSum2'/>
         <page name='FlattenBinaryTreetoLinkedList'/>
         <page name='ReverseList'/>
         <page name='Pow'/>
