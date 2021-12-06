@@ -22,6 +22,7 @@
         <page name='ReverseList'/>
         <page name='Pow'/>
         <page name='LongestIncreasingSubsequence'/>
+        <page name='SurroundedRegions'/>
         <page name='NumberofIslands'/>
         <page name='BasicCalculator'/>
         <page name='CoinChange'/>
