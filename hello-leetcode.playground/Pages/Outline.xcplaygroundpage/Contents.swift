@@ -44,6 +44,8 @@
  
  [206. Reverse Linked List](ReverseList)
  
+ [230. Kth Smallest Element in a BST](KthSmallestInBST)
+ 
  [300. Longest Increasing Subsequence](LongestIncreasingSubsequence)
  
  [322. Coin Change](CoinChange)

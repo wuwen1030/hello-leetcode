@@ -45,6 +45,8 @@ Leet Code Playground. Have fun！
 
 [206. Reverse Linked List](hello-leetcode.playground/Pages/ReverseList.xcplaygroundpage/Contents.swift)
 
+[230. Kth Smallest Element in a BST](hello-leetcode.playground/Pages/KthSmallestInBST.xcplaygroundpage/Contents.swift)
+
 [300. Longest Increasing Subsequence](hello-leetcode.playground/Pages/LongestIncreasingSubsequence.xcplaygroundpage/Contents.swift)
 
 [322. Coin Change](hello-leetcode.playground/Pages/CoinChange.xcplaygroundpage/Contents.swift)

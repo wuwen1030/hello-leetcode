@@ -22,6 +22,7 @@
         <page name='FlattenBinaryTreetoLinkedList'/>
         <page name='ReverseList'/>
         <page name='Pow'/>
+        <page name='KthSmallestInBST'/>
         <page name='LongestIncreasingSubsequence'/>
         <page name='SurroundedRegions'/>
         <page name='NumberofIslands'/>
