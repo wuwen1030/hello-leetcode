@@ -28,10 +28,11 @@
         <page name='SurroundedRegions'/>
         <page name='NumberofIslands'/>
         <page name='BasicCalculator'/>
+        <page name='MinimumHeightTrees'/>
         <page name='CoinChange'/>
-        <page name='CoinChange2'/>
         <page name='NthDigit'/>
-        <page name='SearchBST'/>
         <page name='IslandPerimeter'/>
+        <page name='CoinChange2'/>
+        <page name='SearchBST'/>
     </pages>
 </playground>

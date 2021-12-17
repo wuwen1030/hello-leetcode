@@ -53,6 +53,8 @@ Leet Code Playground. Have fun！
 
 [322. Coin Change](hello-leetcode.playground/Pages/CoinChange.xcplaygroundpage/Contents.swift)
 
+[310. Minimum Height Trees](hello-leetcode.playground/Pages/MinimumHeightTrees.xcplaygroundpage/Contents.swift)
+
 [400. Nth Digit](hello-leetcode.playground/Pages/NthDigit.xcplaygroundpage/Contents.swift)
 
 [463. Island Perimeter](hello-leetcode.playground/Pages/IslandPerimeter.xcplaygroundpage/Contents.swift)

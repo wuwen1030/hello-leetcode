@@ -39,7 +39,7 @@
  [113. Path Sum II](PathSum2)
 
  [114. Flatten Binary Tree to Linked List](FlattenBinaryTreetoLinkedList)
- 
+  
  [130. Surrounded Regions](SurroundedRegions)
  
  [200. Number of Islands](NumberofIslands)
@@ -50,6 +50,8 @@
  
  [300. Longest Increasing Subsequence](LongestIncreasingSubsequence)
  
+ [310. Minimum Height Trees](MinimumHeightTrees)
+
  [322. Coin Change](CoinChange)
  
  [400. Nth Digit](NthDigit)
